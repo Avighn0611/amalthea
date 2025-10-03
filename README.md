@@ -1,2 +1,4 @@
 # amalthea
-repo for the iit gandhinagar hackathon, shared with Ankit and Aakash
+repo for the # IIT gandhinagar hackathon
+</br>
+shared with Ankit and Aakash
